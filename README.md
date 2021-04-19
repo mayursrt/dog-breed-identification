@@ -9,7 +9,7 @@ This is the code for a [Dog Breed Identification](https://www.kaggle.com/c/dog-b
 ## Clone Repository
 Clone this Repository using,
 
-	git clone https://github.com/mayursrt/bulldozer-price-prediction.git
+	git clone https://github.com/mayursrt/dog-breed-identification.git
 
 ## Usage
 You can use [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) for the easy execution of the code and skip the following steps.
