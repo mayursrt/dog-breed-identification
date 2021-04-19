@@ -52,7 +52,7 @@ Transfer learning helps eliviate some of these by taking what another model has 
 # Usage
 
 ## Clone Repository
-Clone this Repository using,
+Clone this Repository using:
 
 	git clone https://github.com/mayursrt/dog-breed-identification.git
 
